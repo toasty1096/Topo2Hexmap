@@ -10,8 +10,7 @@ This tool was initially intended for my personal use and is still pretty rough a
 
 ## Getting Started
 
-The application can be found in the file:
-Topo2Hexmap-1.0.zip
+The application can be found in "Topo2Hexmap-1.0.zip"
 
 Simply download and extract the archive to begin using the tool.
 
