@@ -1,6 +1,6 @@
 # Topo2Hexmap – Map Creation Tool for MegaMek
 
-*Disclaimer: This project is not affiliated with MegaMek or its creators. It is a fan-made utility made to simplify map creation.*
+*Disclaimer: This project is not affiliated with MegaMek or its creators, It is a fan-made utility made to simplify map creation.*
 
 ## Overview
 
