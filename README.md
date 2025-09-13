@@ -1,4 +1,4 @@
-# megamek-hexmap-maker
+# Topo2Hexmap, map maker tool for megamek
 
 Legal disclaimer: I am NOT affiliated with megamek or it's creators, this is a fan made program to make map creation easier.
 
