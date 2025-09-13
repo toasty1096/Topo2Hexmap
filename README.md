@@ -1,14 +1,14 @@
 # Topo2Hexmap – Map Creation Tool for MegaMek
 
-Disclaimer: This project is not affiliated with MegaMek or its creators. It is a fan-made utility intended to simplify map creation.
+*Disclaimer: This project is not affiliated with MegaMek or its creators. It is a fan-made utility made to simplify map creation.*
 
-# Overview
+## Overview
 
 Topo2Hexmap is a lightweight application that converts input images into bitmaps of a chosen size and generates a .board file compatible with MegaMek and its map editor.
 
 This tool was initially developed for personal use and may still be rough around the edges. While minor graphical improvements may be added over time, major feature updates are not currently planned.
 
-# Getting Started
+## Getting Started
 
 The application can be found in the file:
 Topo2Hexmap-1.0.zip
