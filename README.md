@@ -4,9 +4,9 @@
 
 ## Overview
 
-Topo2Hexmap is a lightweight application that converts input images into bitmaps of a chosen size and generates a .board file compatible with MegaMek and its map editor.
+Topo2Hexmap is a small program that converts input images into bitmaps generates a .board file compatible with MegaMek and its map editor.
 
-This tool was initially developed for personal use and is still pretty rough around the edges. While minor graphical improvements may be added over time, major feature updates are not currently planned.
+This tool was initially intended for my personal use and is still pretty rough around the edges. While minor graphical improvements may be added over time, major feature updates are not currently planned.
 
 ## Getting Started
 
