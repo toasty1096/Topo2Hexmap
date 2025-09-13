@@ -17,4 +17,4 @@ Simply download and extract the archive to begin using the tool.
 
 
 
-If you encounter any issues while running the program, please open an issue in this repository. As this is my first GitHub project, feedback and bug reports are especially welcome.
+If you encounter any issues while running the program, please open an issue in this repository. This is my first GitHub project, so feedback and bug reports are especially welcome.
